@@ -24,7 +24,7 @@ $('.scroll-up-btn').click(function(){
 
 // typing animation script
 var typed = new Typed(".typing",{
-    strings: ["deploy","Developer","Designer","Frellancer"],
+    strings: ["Developer","Designer","Deployer","Frellancer"],
     typeSpeed:100,
     backSpeed:60,
     loop:true
@@ -32,7 +32,7 @@ var typed = new Typed(".typing",{
 
 
 var typed = new Typed(".typing-2",{
-    strings: ["deploy","Developer","Designer","Frellancer"],
+    strings: ["Developer","Designer","Deployer","Frellancer"],
     typeSpeed:100,
     backSpeed:60,
     loop:true
